@@ -1,0 +1,14 @@
+.Story {
+    margin: 10px;
+    text-align: left;
+    padding: 0px 15px 0 5px;
+    background-color: #e5e5e5;
+}
+
+.Story-title a {
+    color: #000;
+}
+
+.Story-title a:first-child {
+    margin-right: 10px;
+}
